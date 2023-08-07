@@ -9,6 +9,10 @@ h1{
     font-family: 'Montserrat', sans-serif;
 }
 
+#botaoNum{
+    padding-bottom: 10px;
+}
+
 section {
     text-align: center;
 }

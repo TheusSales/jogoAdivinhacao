@@ -13,11 +13,16 @@
 <body>
 
     <h1>Adivinha número</h1>
+    
+    <section id="botaoNum">
+        <input type="button" value="Gerar número aleatório" onclick="gerarNúmeroAleatorio()">
+    </section>
+
     <section name = "input">
         <input type="number" placeholder = "Digite um número aqui" name="numero" id="numero" min="0">
         <input type ="button" value="Adivinhar" onclick="adivinhar()">
     </section>
-    
+
     <div id="res" class="container">
 
     </div>
