@@ -1,0 +1,20 @@
+body{
+    background-color: #606d80;
+    }
+
+h1{
+    text-align: center;
+    color:#1f1f20;
+    font:bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+section {
+    text-align: center;
+}
+
+#res{
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
