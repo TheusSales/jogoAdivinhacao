@@ -21,7 +21,9 @@ function adivinhar(){
 
 function gerarNúmeroAleatorio(){
     numSecreto = Math.floor((Math.random() * 100));
+    window.alert(`Número aleatório gerado!`)
     numTentativas = 1;
+    res.innerHTML = ``;
 
     return numSecreto;
 }
